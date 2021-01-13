@@ -28,8 +28,8 @@ public class Main {
         task8(2008);
     }
     //Task 3
-    public static float task3 (float a, float b, float c, float d){
-        float result = a * (b + (c / d));
+    public static double task3 (float a, float b, float c, float d){
+        double result = a * (b + (c / d));
         return result;
     }
 
