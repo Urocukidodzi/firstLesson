@@ -29,8 +29,7 @@ public class Main {
     }
     //Task 3
     public static double task3 (float a, float b, float c, float d){
-        double result = a * (b + (c / d));
-        return result;
+        return a * (b + (c / d));
     }
 
     public static boolean task4(int a, int b){
